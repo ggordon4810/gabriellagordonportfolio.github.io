@@ -9,8 +9,10 @@ Materials Science student interested in research, chemistry, and technology
 - Python development
 
 ## Featured Projects
-- <a href="https://github.com/ggordon4810/mrinanoparticle">
-    MRI Nanoparticle Suite
+<a href="https://ggordon4810.github.io/mrinanoparticle.github.io/"
+   target="_blank"
+   rel="noopener noreferrer">
+    - MRI Nanoparticle Suite
 </a>
 - Figure Generator
 - Materials Lab
