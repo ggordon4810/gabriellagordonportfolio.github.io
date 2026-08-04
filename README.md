@@ -10,7 +10,7 @@ Materials Science student interested in research, chemistry, and technology
 
 ## Featured Projects
 - <a href="https://github.com/ggordon4810/mrinanoparticle">
-    GitHub Repository
+    MRI Nanoparticle Suite
 </a>
 - Figure Generator
 - Materials Lab
