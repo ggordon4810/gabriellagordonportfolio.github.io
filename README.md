@@ -9,7 +9,7 @@ Materials Science student interested in research, chemistry, and technology
 - Python development
 
 ## Featured Projects
-- MRI Nanoparticle Research Suite
+- [MRI Nanoparticle Research Suite](mrinanoparticle.github.io)
 - Figure Generator
 - Materials Lab
 
